@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/duverneay/Ribbit%203/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/duvernea/ribbit/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="camera_choices">
         <item>Take Picture</item>
@@ -8,7 +8,7 @@
         <item>Choose Picture</item>
         <item>Choose Video</item>
     </string-array>
-    <!-- From: file:/Users/duverneay/Ribbit%203/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/duvernea/ribbit/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="apptheme_color">#61408c</color>
     <color name="background_purple">#3F2466</color>
@@ -17,7 +17,7 @@
     <color name="light_purple_button">#e1d2f3</color>
     <color name="pressed_purple_button">#ba9dda</color>
     <color name="text_color">#250054</color>
-    <!-- From: file:/Users/duverneay/Ribbit%203/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/duvernea/ribbit/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
@@ -25,7 +25,7 @@
     <dimen name="login_vertical_margin">32dp</dimen>
     <dimen name="login_vertical_padding">10dp</dimen>
     <dimen name="message_list_item_vertical_margin">8dp</dimen>
-    <!-- From: file:/Users/duverneay/Ribbit%203/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/duvernea/ribbit/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">Ribbit</string>
@@ -68,7 +68,7 @@
     <string name="username_hint">Username</string>
     <string name="video_file_size_warning">The selected video must be less than 10 MB.</string>
     <string name="video_size_limit_warning">The selected video must be less than 10 MB.</string>
-    <!-- From: file:/Users/duverneay/Ribbit%203/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/duvernea/ribbit/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="android:Theme.Holo.Light">
         <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>

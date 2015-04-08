@@ -1,5 +1,5 @@
-/Users/duverneay/Ribbit 3/app/build/intermediates/classes/debug
-/Users/duverneay/Ribbit 3/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-15b118f363f506b07098ef11d0a1b4a3fa804798.jar
-/Users/duverneay/Ribbit 3/app/build/intermediates/pre-dexed/debug/commons-io-2.4-17846abd2cde2e6cf41c64f02b1c8a4e6f0ac786.jar
-/Users/duverneay/Ribbit 3/app/build/intermediates/pre-dexed/debug/Parse-1.3.9-8a38b95faf43212e6c5a799574ad7050f5a9aa96.jar
-/Users/duverneay/Ribbit 3/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-90fcb1925728c84c700fb4ad1183c324c5254bb0.jar
+/Users/duvernea/ribbit/app/build/intermediates/classes/debug
+/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-8c235aa339885b02a0e613e04c8a9cebf79c1724.jar
+/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/commons-io-2.4-b0cd405ef5909893dfcfcfa1a74e9c6054101b99.jar
+/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/Parse-1.3.9-2fa156ba4503cbf92a09e4489a363830cca1de35.jar
+/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-cc6fed071c28dd9e5aee184255850934d21dea62.jar
