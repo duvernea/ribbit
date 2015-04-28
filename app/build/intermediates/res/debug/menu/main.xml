@@ -4,4 +4,4 @@
     <item android:id="@+id/action_camera" android:icon="@drawable/ic_action_camera" android:title="@string/menu_camera_label" android:showAsAction="always"></item>
 
 </menu>
-<!-- From: file:/Users/duvernea/ribbit/app/src/main/res/menu/main.xml -->
+<!-- From: file:/Users/duvernea/AndroidStudioProjects/ribbit/app/src/main/res/menu/main.xml -->

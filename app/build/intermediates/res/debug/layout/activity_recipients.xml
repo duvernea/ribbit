@@ -19,4 +19,4 @@
         android:text="@string/empty_recipients_list_message" />
 
 </RelativeLayout>
-<!-- From: file:/Users/duvernea/ribbit/app/src/main/res/layout/activity_recipients.xml -->
+<!-- From: file:/Users/duvernea/AndroidStudioProjects/ribbit/app/src/main/res/layout/activity_recipients.xml -->

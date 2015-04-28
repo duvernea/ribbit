@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/Users/duvernea/ribbit/app/libs/Parse-1.3.9.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
-        <dex dex="/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/Parse-1.3.9-2fa156ba4503cbf92a09e4489a363830cca1de35.jar" />
-    </item>
-    <item
-        jar="/Users/duvernea/ribbit/app/libs/picasso-2.1.1.jar"
+        jar="/Users/duvernea/AndroidStudioProjects/ribbit/app/libs/picasso-2.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
-        <dex dex="/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-8c235aa339885b02a0e613e04c8a9cebf79c1724.jar" />
+        <dex dex="/Users/duvernea/AndroidStudioProjects/ribbit/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-90c5c70e1f8626e2a44b1c2fd6e04943b5e64daa.jar" />
     </item>
     <item
-        jar="/Users/duvernea/ribbit/app/libs/commons-io-2.4.jar"
+        jar="/Users/duvernea/AndroidStudioProjects/ribbit/app/libs/commons-io-2.4.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/commons-io-2.4-b0cd405ef5909893dfcfcfa1a74e9c6054101b99.jar" />
+        <dex dex="/Users/duvernea/AndroidStudioProjects/ribbit/app/build/intermediates/pre-dexed/debug/commons-io-2.4-98e54c7dffde19c461bcc2acb43c9fccc57c1881.jar" />
+    </item>
+    <item
+        jar="/Users/duvernea/AndroidStudioProjects/ribbit/app/libs/Parse-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
+        <dex dex="/Users/duvernea/AndroidStudioProjects/ribbit/app/build/intermediates/pre-dexed/debug/Parse-1.3.9-104a4e933fd20461b535f2a35eedf6ef4d7c5aa6.jar" />
     </item>
     <item
         jar="/Users/duvernea/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/duvernea/ribbit/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-cc6fed071c28dd9e5aee184255850934d21dea62.jar" />
+        <dex dex="/Users/duvernea/AndroidStudioProjects/ribbit/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-cc6fed071c28dd9e5aee184255850934d21dea62.jar" />
     </item>
 
 </items>

@@ -24,25 +24,17 @@
 
         <EditText
             android:id="@+id/usernameField"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="@string/username_hint"
-            android:textColorHint="@color/light_gray"
-            android:textSize="17sp">
+            style="@style/AuthEditText"
+            android:hint="@string/username_hint">
 
             <requestFocus />
         </EditText>
 
         <EditText
             android:id="@+id/passwordField"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="@string/password_hint"
+            style="@style/AuthEditText"
             android:inputType="textPassword"
-            android:textColorHint="@color/light_gray"
-            android:textSize="17sp">
+            android:hint="@string/password_hint">
         </EditText>
 
 
@@ -50,17 +42,9 @@
 
     <Button
         android:id="@+id/loginButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:text="@string/login_button_label"
-        android:layout_below="@+id/editTextLayout"
-        android:layout_alignLeft="@+id/backgroundImage"
-        android:layout_alignStart="@+id/backgroundImage"
-        android:background="@drawable/button_custom"
-        android:layout_marginLeft="@dimen/activity_horizontal_margin"
-        android:layout_marginRight="@dimen/activity_horizontal_margin"
-        android:textSize="13sp"
-        android:textColor="@color/text_color"/>
+        style="@style/AuthButton"
+        android:layout_below="@+id/editTextLayout"/>
 
     <TextView
         android:id="@+id/signUpText"
